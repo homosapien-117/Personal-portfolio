@@ -58,10 +58,8 @@ const About = () => {
 
               {/* Skills & Expertise Section with Box on the Right */}
               <div data-aos="zoom-in" className="flex gap-8">
-                <div className="border border-red-200 rounded-lg md:p-7 py-7 flex flex-col gap-8 items-center shadow-lg shadow-red-300 w-2/3">
-                  <h3 className="text-2xl font-semibold text-red-600">
-                    Skills & Expertise
-                  </h3>
+              <div className="border border-red-200 rounded-lg md:p-7 py-7 flex flex-col gap-8 items-center shadow-lg shadow-red-300 w-full md:w-2/3 mx-auto md:mx-0 text-center">
+              <h3 className="text-2xl font-semibold text-red-600">Skills & Expertise</h3>
                   <div className="flex items-center justify-center flex-wrap gap-3">
                     {/* Skill Items */}
                     <div className="border border-red-300 flex items-center gap-1 w-max px-2 py-1 rounded-lg shadow-md shadow-red-300">
