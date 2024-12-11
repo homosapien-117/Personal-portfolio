@@ -1,6 +1,6 @@
 import React from "react";
 import hero from "../assets/Ajay.png";
-import CV from "../assets/AJAY_KRISHNA_CV.pdf";
+import CV from "../assets/AJAY_KRISHNA_cv.pdf";
 import github from "../assets/git-hub.png";
 import linkedin from "../assets/linkedin.png";
 import reactLogo from "../assets/React.png";
