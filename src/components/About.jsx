@@ -116,8 +116,8 @@ const About = () => {
                 </div>
 
                 {/* New Box on the Right */}
-                <div className="border border-red-200 rounded-lg py-7 flex flex-col items-center shadow-lg shadow-red-300 w-1/3">
-                  <h3 className="text-2xl font-semibold text-gray-900">
+                <div className="border border-red-200 rounded-lg md:p-7 py-7 flex flex-col gap-8 items-center shadow-lg shadow-red-300 w-2/3">
+                  <h3 className="text-2xl font-semibold text-red-600">
                     Tools used
                   </h3>
                   <ul className="mt-4 text-lg text-gray-600">
