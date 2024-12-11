@@ -31,7 +31,8 @@ const Projects = () => {
       title: "Olx clone (using React)",
       desc: "Built a OLX clone web application with React and Redux for the frontend, Node.js and Express.js for the backend, and MongoDB for data storage, featuring user authentication and authorization.",
       image: Olx,
-      github: "https://github.com/homosapien-117/OLX-clone-REACT.git",
+      live:"https://olx-clone-react1.vercel.app/",
+      github: "https://github.com/homosapien-117/olx-clone-react1.git",
       aosDelay: "900",
     },
     {
